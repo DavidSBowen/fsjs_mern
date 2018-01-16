@@ -15,7 +15,7 @@ App.propTypes = {
 };
 
 App.defaultProps = {
-    headerMessage: 'Hello!!!!!'
+    headerMessage: 'No props. This is default.'
 }
 
 ReactDOM.render(
